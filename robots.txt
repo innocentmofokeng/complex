@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /blog-details.html
+Allow: /index.php
+Allow: /solutions.php
+Allow: /designs.php
+Allow: /development.php
+Allow: /contacts.php
+Allow: /blog.php
+Allow: /about.php
